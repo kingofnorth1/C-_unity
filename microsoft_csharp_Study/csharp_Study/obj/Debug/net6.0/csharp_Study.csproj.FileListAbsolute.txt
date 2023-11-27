@@ -1,0 +1,14 @@
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\obj\Debug\net6.0\csharp_Study.GeneratedMSBuildEditorConfig.editorconfig
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\obj\Debug\net6.0\csharp_Study.AssemblyInfoInputs.cache
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\obj\Debug\net6.0\csharp_Study.AssemblyInfo.cs
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\obj\Debug\net6.0\csharp_Study.csproj.CoreCompileInputs.cache
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\bin\Debug\net6.0\csharp_Study.exe
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\bin\Debug\net6.0\csharp_Study.deps.json
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\bin\Debug\net6.0\csharp_Study.runtimeconfig.json
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\bin\Debug\net6.0\csharp_Study.dll
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\bin\Debug\net6.0\csharp_Study.pdb
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\obj\Debug\net6.0\csharp_Study.dll
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\obj\Debug\net6.0\refint\csharp_Study.dll
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\obj\Debug\net6.0\csharp_Study.pdb
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\obj\Debug\net6.0\csharp_Study.genruntimeconfig.cache
+E:\document\C#_Study\microsoft_csharp_Study\csharp_Study\obj\Debug\net6.0\ref\csharp_Study.dll
