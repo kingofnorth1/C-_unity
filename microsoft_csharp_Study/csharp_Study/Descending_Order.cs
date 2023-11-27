@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.ComponentModel.DataAnnotations;
 using System.Drawing;
 
@@ -26,7 +27,6 @@ public class Kata
         Console.Write("    " + Convert.ToInt32(str));
         return number;
     }
-
     public int DescendingOrders(int num)
     {
         char[] arr = num.ToString().ToCharArray();
@@ -34,5 +34,38 @@ public class Kata
         Array.Reverse(arr);
         Console.WriteLine(Convert.ToInt32(new String(arr)));
         return Convert.ToInt32(new String(arr));
+    }
+    public int Add(int a, int b)
+    {
+        return a + b;
+    }
+    public void Test()
+    {
+        Console.WriteLine("Test shezhi");
+    }
+    public void Swap(ref int x, ref int y)
+    {
+        int temp = x;
+        x = y;
+        y = temp;
+    }
+    public void Divide(int x, int y, out int quotient, out int remainder)
+    {
+        quotient = x / y;
+        remainder = x % y;
+    }
+    public void GUM(int a, out int b, ref int c)
+    {
+        b = a;
+        c = a + b;
+        ArrayList i = new ArrayList() { 1,2,3};
+        ArrayList j = i;
+        j.Add(5);
+        ArrayList k = i;
+        foreach(int x in k)
+        {
+            Console.Write($"{x}");
+        }
+        Console.WriteLine();
     }
 }
