@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Programe
+public class Mainss
 {
     public static void Main()
     {
@@ -23,6 +23,15 @@ public class Programe
         Console.WriteLine(e1.GetSerialNo());          // Outputs "1000"
         Console.WriteLine(e2.GetSerialNo());          // Outputs "1001"
         Console.WriteLine(Entity.GetNextSerialNo());  // Outputs "1002"
+
+        Constant constant = new(2.3);
+        Dictionary<string, object> maps = new Dictionary<string, object>
+        {
+            { "str", 111 },
+            { "str1", 222 }
+        };
+        constant.Evaluate(maps);
+        EventExample.ChangeEvent();
     }
 }
 
