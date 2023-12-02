@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JevcBCiY9I4YbPgWi+o4hiEHrMCs3GnWJW009+kZyH9sDrJGCtZGPQmO8hyqYwo8lX9+vQXODmhUXlhsOobflA==",
+  "dgSpecHash": "FU3hl9eRtpso0PzGfutz5vSw3HbHJHN64+VgWRDYPserWm/Q2tCjVURs0xoFRttE9E36Nv5V17BKThaTx00s3A==",
   "success": true,
-  "projectFilePath": "E:\\document\\C#_Study\\microsoft_csharp_Study\\csharp_Study\\csharp_Study.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "I:\\document\\Csharp_unity\\microsoft_csharp_Study\\csharp_Study\\csharp_Study.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\king\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\king\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\king\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\king\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

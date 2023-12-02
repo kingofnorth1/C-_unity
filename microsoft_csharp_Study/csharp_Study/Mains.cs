@@ -9,7 +9,7 @@ public class Mainss
         Console.WriteLine(kata.Add(1, 2));
         kata.Test();
         int i = 10, j = 29;
-        kata.Swap(ref i,ref j);
+        kata.Swap(ref i, ref j);
         Console.WriteLine($"{i}, {j}");
         kata.Divide(109, 3, out int quotient, out int remainder);
         Console.WriteLine($"{quotient}, {remainder}");
@@ -27,11 +27,18 @@ public class Mainss
         Constant constant = new(2.3);
         Dictionary<string, object> maps = new Dictionary<string, object>
         {
-            { "str", 111 },
-            { "str1", 222 }
+            { "numberOne", "hxt" },
+            { "numberTwo", "dqk" }
         };
         constant.Evaluate(maps);
         EventExample.ChangeEvent();
+
+        Collection collection = new Collection();
+        collection.CollectionBasic();
+        _ = collection.RetrieveDocsHomePage();
+        
+        Widget widget = new Widget();
+        widget.Display("Test");
     }
 }
 

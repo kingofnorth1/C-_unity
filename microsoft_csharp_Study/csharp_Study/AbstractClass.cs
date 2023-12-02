@@ -20,9 +20,9 @@ public class Constant : Expression
     {
         foreach (var var in vars.Keys)
         {
-            Console.Write(var);
+            Console.Write($"传入数据：{var}\n");
         }
-        Console.WriteLine(vars["str"]);
+        Console.WriteLine("传入数据的值为："+vars["numberOne"]);
         //Console.WriteLine(vars.TryGetValue("str",out _));
         Console.WriteLine("初始化数据："+_value);
         return _value;
